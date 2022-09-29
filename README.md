@@ -18,7 +18,7 @@ Redrawn plan for the first floor, to reduce building cost and dead space in mult
 
 Floorplan for the basement. Not sure this will work as a substructure without proper pillars to support the 1st floor. Including a 60 square meter flat for renting on the north end of the house. Base cost 35K pr sqm. = 3,933,300.00 NOK
 
-![Draft basement floorplan](https://killeck.github.io/blob/main/images/floorplan0house1.JPG)
+![Draft basement floorplan](https://github.com/Killeck/killeck.github.io/blob/main/floorplan0house1.JPG)
 
 
 ### Research points
