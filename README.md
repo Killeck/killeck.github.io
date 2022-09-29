@@ -10,7 +10,7 @@
 
 My first attempt to draw up the first floor, focusing on the flow of the house as well as trying to keep as much of the property connected so that it will become a suitable playground for our kid.
 
-![Floorplan 1st floor](https://github.com/Killeck/killeck.github.io/blob/main/images/floor1house1.JPG)
+![Floorplan 1st floor](../images/floor1house1.JPG raw=true)
 
 Redrawn plan for the first floor, to reduce building cost and dead space in multiple rooms (hallway, kitchen, main bedroom and connected walk-in). Extending second bedroom by reducing the internal hallway leading to the room. Base cost 35K pr sqm. = 4,550,000.00 NOK (Excluding Garage)
 
