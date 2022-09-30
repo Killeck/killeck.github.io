@@ -14,11 +14,11 @@ My first attempt to draw up the first floor, focusing on the flow of the house a
 
 Redrawn plan for the first floor, to reduce building cost and dead space in multiple rooms (hallway, kitchen, main bedroom and connected walk-in). Extending second bedroom by reducing the internal hallway leading to the room. Base cost 35K pr sqm. = 4,550,000.00 NOK (Excluding Garage)
 
-![Floorplan 1st floor Draft 2d room rezising](https://github.com/Killeck/killeck.github.io/blob/main/images/floorplan1house2.JPG)
+![Floorplan 1st floor Draft 2d room rezising](https://github.com/Killeck/killeck.github.io/blob/main/images/floorplan1house2.JPG?raw=true)
 
 Floorplan for the basement. Not sure this will work as a substructure without proper pillars to support the 1st floor. Including a 60 square meter flat for renting on the north end of the house. Base cost 35K pr sqm. = 3,933,300.00 NOK
 
-![Draft basement floorplan](https://github.com/Killeck/killeck.github.io/blob/main/images/floorplan0house1.JPG)
+![Draft basement floorplan](https://github.com/Killeck/killeck.github.io/blob/main/images/floorplan0house1.JPG?raw=true)
 
 
 ### Research points
