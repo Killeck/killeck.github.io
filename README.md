@@ -50,14 +50,17 @@ Har begynt å tegne nok en variant av sokkel for å avdekke alternative rominnde
 - Vaskerom
 - Kjøkken
 
-#### **Door types**
+#### **Dør typer**
+
+##### Yterdører
+##### Innerdører
 
 #### **Vindu typer**
 Dansk design rammeløst som gir 20% mer glass og 20% mindre ramme, mere innslipp av lys og lavere varmetap. Noe høyere investeringskost det også ca 20-25%
 
 #### **Garasjeporter**
 
-#### **Klessjakt((
+#### **Kles-sjakt**
 
 #### **Sentralstøvsuger**
 Ønsker en løsning som støtter og har fotlist enheter.
