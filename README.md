@@ -1,12 +1,12 @@
-# Furutoppen 7
+# Furuhaugen 7
 
-## What will our house contain
+## Husets elementer
 
-### Related Documents
+### Dokumenter
 [[Sales_Document]] 
 
 
-### House Imagery
+### Hus Forslag
 
 My first attempt to draw up the first floor, focusing on the flow of the house as well as trying to keep as much of the property connected so that it will become a suitable playground for our kid.
 
