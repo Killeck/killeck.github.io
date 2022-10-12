@@ -7,7 +7,7 @@
 
 ### Hus Forslag
 
-Mitt første fullverdige forslag til hustegning av 1.etg. Fokus på flyt igjennom huset samt å beholde så mye sammenhengende masse på tomten slik at det gjør seg som et lekeområde for barn.
+Mitt første fullverdige forslag til hustegning av 1.etg. Fokus på flyt igjennom huset samt å beholde så mye sammenhengende plen areal på tomten slik at det gjør seg som et lekeområde for barn.
 
 ![Floorplan 1st floor](https://github.com/Killeck/killeck.github.io/blob/main/images/floor1house1.png?raw=true)
 
@@ -19,8 +19,18 @@ Forslag sokkle/kjeller etasjen for huset. Ikke sikkert dette vil fungere da sokk
 
 ![Draft basement floorplan](https://github.com/Killeck/killeck.github.io/blob/main/images/floorplan0house1.JPG?raw=true)
 
-## 
+Har begynt å tegne nok en variant av sokkel for å avdekke alternative rominndeling slik at etasjen blir mer fleksibel i bruk i de første årene og for å se hvordan det eventuelt endrer vårt behov for å ha større rom/soner.
 
+## Kalkyler av kost for sokkel vs grunnflate
+
+### Sokkel
+- Lengde med "murvegg" sundolitt eller lignende løsning
+- Støyp av 2 plater kontra 1
+- Kost for bjelkelag
+
+### Platestøyp
+- Kost for plate og bjelkelag
+- Utvidet armeringsbehov
 
 ### Videre Research
 
@@ -29,6 +39,8 @@ Forslag sokkle/kjeller etasjen for huset. Ikke sikkert dette vil fungere da sokk
 #### **Vannboren gulvvarme og sentral luft opsjoner**
 - Vann til vann AC pumpe --> krever dette brønn?
 - Luft til Vann Ac pumpe
+- Borrekostnader for brønn
+- Kostnadsforskjell mellom vannboren varme i støyp kontra bjelkelag?
 
 **Floor heating in following rooms:**
 - Gang/Entre
