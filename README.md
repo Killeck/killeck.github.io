@@ -3,51 +3,50 @@
 ## Husets elementer
 
 ### Dokumenter
-[[Sales_Document]] 
-
+[[Salgs_dokumenter]] 
 
 ### Hus Forslag
 
-My first attempt to draw up the first floor, focusing on the flow of the house as well as trying to keep as much of the property connected so that it will become a suitable playground for our kid.
+Mitt første fullverdige foslag til hustegning av 1.etg. Fokus på flyt igjennom huset samt å beholde så mye sammenhengende masse på tomten slik at det gjør seg som et lekeområde for barn.
 
 ![Floorplan 1st floor](https://github.com/Killeck/killeck.github.io/blob/main/images/floor1house1.png?raw=true)
 
-Redrawn plan for the first floor, to reduce building cost and dead space in multiple rooms (hallway, kitchen, main bedroom and connected walk-in). Extending second bedroom by reducing the internal hallway leading to the room. Base cost 35K pr sqm. = 4,550,000.00 NOK (Excluding Garage)
+Tegnet om grunnplan for 1.etg, for å redusere byggekostnad og "dødt" areale i flere rom og soner (gang, kjøkken, hovedsoverom og walk-in). Utvidet soverom to i 1.etg ved å redusere gangen og flytte vegg og dør inn til dette soveromet. Basis kost for denne etasjen gitt grunnkost på 35K NOK pr kvm = 4,550,000.00  NOK (uten garasje)
 
 ![Floorplan 1st floor Draft 2d room rezising](https://github.com/Killeck/killeck.github.io/blob/main/images/floorplan1house2.JPG?raw=true)
 
-Floorplan for the basement. Not sure this will work as a substructure without proper pillars to support the 1st floor. Including a 60 square meter flat for renting on the north end of the house. Base cost 35K pr sqm. = 3,933,300.00 NOK
+Forslag sokkle/kjeller etasjen for huset. Ikke sikkert dette vil fungere da sokkelen er mindre enn 1.etg. Mulig noe ekstra kost med støtte søyer etc. Må nok sjekkes med bygg ingenør og/eller arkitekt. Oppnår her ca 60 kvm med sokkel til utleie i nordenden av huset.Grunnkost 35K pr kvm. = 3,933,300.00 NOK. Her må jeg se videre på hva som er brytningspunktet mellom grunnflate støypekostnader og når det vil være billigere med en sokkel og da ett bjelkelag.
 
 ![Draft basement floorplan](https://github.com/Killeck/killeck.github.io/blob/main/images/floorplan0house1.JPG?raw=true)
 
 
-### Research points
+### Videre Research
 
-#### **Smarthouse**
+#### **Smarthus**
 
-#### **Waterborn heating & Central heating options**
--Throught water to water AC pump, this requires a well
--Air to water AC pump
+#### **Vannboren gulvvarme og sentral luft opsjoner**
+- Vann til vann AC pumpe --> krever dette brønn?
+- Luft til Vann Ac pumpe
 
 **Floor heating in following rooms:**
-- Hallway
-- Bathroom
-- livingroom
-- Hallway WC
-- Laundryroom
-- Kitchen
+- Gang/Entre
+- Bad
+- Stue & oppholdsrom
+- Toalett i gang
+- Vaskerom
+- Kjøkken
 
 #### **Door types**
 
-#### **Window types**
-Danish design frameless which provides 20% more glass, less frame, more light and less heat loss. Higher invest cost.
+#### **Vindu typer**
+Dansk design rammeløst som gir 20% mer glass og 20% mindre ramme, mere innslipp av lys og lavere varmetap. Noe høyere investeringskost det også ca 20-25%
 
-#### **Garage doors**
+#### **Garasjeporter**
 
-#### **Landrychoot
+#### **Klessjakt((
 
-#### **Central Vacuum**
-Require a solution that supports skirtingboard vents as well as standard connection points.
+#### **Sentralstøvsuger**
+Ønsker en løsning som støtter og har fotlist enheter.
 
 - [Flexit](https://www.flexit.no/produkter/sentralstovsuger/) [^1][^2]
 - [Foma](https://foma.no/) [^1]
@@ -57,6 +56,6 @@ Require a solution that supports skirtingboard vents as well as standard connect
 - [IndependentVendor](https://www.sentralstovsugersenteret.no/?gclid=CjwKCAjw4c-ZBhAEEiwAZ105RVxODhrpCNr1ZIkDqLT273lzxcDMRUZ_OnSQz8gLRerTPp7yCGWZchoCxpcQAvD_BwE) [^3]
 
 
-[^1]: Avaialable in multiple colours, brand independent [Link](https://sentralstovsugersenteret.no/butikk/produkter/sugekontakter/vacpan-feieluke)
-[^2]: Has skirtingboard connector soluiton
-[^3]: Has hidden hose in wall and a variety of solutions
+[^1]: Tilgjengelig i flere farger uavhengig av sentralstøvsuger enhetsleverandører [Link](https://sentralstovsugersenteret.no/butikk/produkter/sugekontakter/vacpan-feieluke)
+[^2]: Har fotlist enhets støtte slik jeg ønsker på kjøkken
+[^3]: Har gjemt støvsugerledning i veggen og en variasjon med andre løsninger.
