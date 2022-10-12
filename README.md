@@ -7,7 +7,7 @@
 
 ### Hus Forslag
 
-Mitt første fullverdige foslag til hustegning av 1.etg. Fokus på flyt igjennom huset samt å beholde så mye sammenhengende masse på tomten slik at det gjør seg som et lekeområde for barn.
+Mitt første fullverdige forslag til hustegning av 1.etg. Fokus på flyt igjennom huset samt å beholde så mye sammenhengende masse på tomten slik at det gjør seg som et lekeområde for barn.
 
 ![Floorplan 1st floor](https://github.com/Killeck/killeck.github.io/blob/main/images/floor1house1.png?raw=true)
 
@@ -18,6 +18,8 @@ Tegnet om grunnplan for 1.etg, for å redusere byggekostnad og "dødt" areale i 
 Forslag sokkle/kjeller etasjen for huset. Ikke sikkert dette vil fungere da sokkelen er mindre enn 1.etg. Mulig noe ekstra kost med støtte søyer etc. Må nok sjekkes med bygg ingenør og/eller arkitekt. Oppnår her ca 60 kvm med sokkel til utleie i nordenden av huset.Grunnkost 35K pr kvm. = 3,933,300.00 NOK. Her må jeg se videre på hva som er brytningspunktet mellom grunnflate støypekostnader og når det vil være billigere med en sokkel og da ett bjelkelag.
 
 ![Draft basement floorplan](https://github.com/Killeck/killeck.github.io/blob/main/images/floorplan0house1.JPG?raw=true)
+
+## 
 
 
 ### Videre Research
