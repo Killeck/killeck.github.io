@@ -39,7 +39,15 @@ Har begynt å tegne nok en variant av sokkel for å avdekke alternative rominnde
 
 Sokkel 116 m2 og 1. etg plate 33 kvm (I tillegg kommer garasje og bod, ikke medregnet i denne oversikten)
 ![KubSokkel](https://github.com/Killeck/killeck.github.io/blob/main/images/KubSokkel.png?raw=true)
+- 55 løpemeter omkrets
+- 116 M2 grunnflate
+
 ![sokkel1etg](https://github.com/Killeck/killeck.github.io/blob/main/images/sokkelog1etg.png?raw=true)
+- 37 løpemeter omkrets 
+- 33 m2 grunnflate
+- 57 (inkludert garasje og bod)
+- 85,5 m2 grunnflate (inkludert garasje og bod)
+
 
 kost|beskrivelse|volum
 ---:|--:|---:
