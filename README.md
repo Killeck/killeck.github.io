@@ -52,8 +52,8 @@ Sokkel 116 m2 og 1. etg plate 33 kvm (I tillegg kommer garasje og bod, ikke medr
 kost|beskrivelse|volum
 ---:|--:|---:
 160,000.00 NOK| Sundolitt KUB &  Ringmur | -
--| Armeringsjern 10 og 12 mm | -
--| Betong | -
+119.00-179.00 pr 6m-| Armeringsjern 10 og 12 mm | -
+ca 2000.00| Betong | pr m3
 -|-|-
 
 
