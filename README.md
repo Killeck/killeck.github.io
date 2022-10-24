@@ -61,6 +61,9 @@ ca 2000.00| Betong | pr m3
 - Kost for plate og bjelkelag
 - Utvidet armeringsbehov
 
+#### Garasje
+I garasjen er det ønskelig med dobbelt fall for smeltevann og avrenning av bilene. Samt drenerigssystem på utsiden av porten. Vann ledes bort fra garasje og enten ned i avløp eller grunn.
+
 ### Videre Research
 
 #### **Smarthus**
