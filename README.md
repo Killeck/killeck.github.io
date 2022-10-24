@@ -93,6 +93,7 @@ Dansk design rammeløst som gir 20% mer glass og 20% mindre ramme, mere innslipp
 #### **Garasjeporter**
 
 #### **Kles-sjakt**
+- [Landry-Jet](https://www.laundry-jets.co.uk/)
 
 #### **Sentralstøvsuger**
 Ønsker en løsning som støtter og har fotlist enheter.
