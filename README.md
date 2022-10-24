@@ -23,6 +23,12 @@ Har begynt å tegne nok en variant av sokkel for å avdekke alternative rominnde
 ![Alternativ sokkel](https://github.com/Killeck/killeck.github.io/blob/main/images/alternative_basement.JPG?raw=true)
 
 ## Kalkyler av kost for sokkel vs grunnflate
+#### Leverandører av ferdigmur løsninger
+- [Sudolitt](https://www.sundolitt.com/no/sundolitt/norway/byggsystemer/)
+- [Glava](https://www.glava.no/produkter?bruksomrader=betong-anlegg-grunn-og-infrastruktur)
+- [Vartdal](https://vartdalplast.no/no/bygg/produkter/veggsystem)
+- [BEWI](https://bewi.com/products/bewi-ringmur/)
+- [HauCon](https://www.haucon.no/category/produkter/forskaling/ringmurselement/ringmurselement)
 
 ### Sokkel
 - Lengde med "murvegg" sundolitt eller lignende løsning
@@ -38,13 +44,10 @@ Sokkel 116 m2 og 1. etg plate 33 kvm (I tillegg kommer garasje og bod, ikke medr
 kost|beskrivelse|volum
 ---:|--:|---:
 160,000.00 NOK| Sundolitt KUB &  Ringmur | -
--| Armeringsjern | -
+-| Armeringsjern 10 og 12 mm | -
 -| Betong | -
 -|-|-
--| Garasje | 1
--| Garasjeringmur| -
--| Armering | -
--| Betong | - 
+
 
 ### Platestøyp
 - Kost for plate og bjelkelag
