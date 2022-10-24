@@ -29,6 +29,23 @@ Har begynt å tegne nok en variant av sokkel for å avdekke alternative rominnde
 - Støyp av 2 plater kontra 1
 - Kost for bjelkelag
 
+#### Løsning med Sundolitt
+
+Sokkel 116 m2 og 1. etg plate 33 kvm (I tillegg kommer garasje og bod, ikke medregnet i denne oversikten)
+![KubSokkel](https://github.com/Killeck/killeck.github.io/blob/main/images/KubSokkel.png?raw=true)
+![sokkel1etg](https://github.com/Killeck/killeck.github.io/blob/main/images/sokkelog1etg.png?raw=true)
+
+kost|beskrivelse|volum
+---:|--:|---:
+160,000.00 NOK| Sundolitt KUB &  Ringmur | -
+-| Armeringsjern | -
+-| Betong | -
+-|-|-
+-| Garasje | 1
+-| Garasjeringmur| -
+-| Armering | -
+-| Betong | - 
+
 ### Platestøyp
 - Kost for plate og bjelkelag
 - Utvidet armeringsbehov
