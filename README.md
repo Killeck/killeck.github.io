@@ -105,6 +105,27 @@ Dansk design rammeløst som gir 20% mer glass og 20% mindre ramme, mere innslipp
 
 - [IndependentVendor](https://www.sentralstovsugersenteret.no/?gclid=CjwKCAjw4c-ZBhAEEiwAZ105RVxODhrpCNr1ZIkDqLT273lzxcDMRUZ_OnSQz8gLRerTPp7yCGWZchoCxpcQAvD_BwE) [^3]
 
+### Smarthus
+
+#### Teknologiske løsningsmuligheter & leverandører
+
+- Home Assistant
+- FutureHome
+
+##### Smarthustilpasninger
+
+- Strømstyring
+- Lys
+- Varme/luft
+- Netverk
+- Husalarm
+- Dørlåser
+- Overvåkning
+- Musikk
+- Hvem er hjemme
+- Roboter (vaske/støvsuge)
+- Solskjerming
+- Shared Backups
 
 [^1]: Tilgjengelig i flere farger uavhengig av sentralstøvsuger enhetsleverandører [Link](https://sentralstovsugersenteret.no/butikk/produkter/sugekontakter/vacpan-feieluke)
 [^2]: Har fotlist enhets støtte slik jeg ønsker på kjøkken
