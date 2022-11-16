@@ -106,6 +106,7 @@ Dansk design rammeløst som gir 20% mer glass og 20% mindre ramme, mere innslipp
 - [IndependentVendor](https://www.sentralstovsugersenteret.no/?gclid=CjwKCAjw4c-ZBhAEEiwAZ105RVxODhrpCNr1ZIkDqLT273lzxcDMRUZ_OnSQz8gLRerTPp7yCGWZchoCxpcQAvD_BwE) [^3]
 
 ### Smarthus
+Hvordan løse det meste med CAT-7 og PoE+ for å unngå strømkontaktpunkter over hele huset. 
 
 #### Teknologiske løsningsmuligheter & leverandører
 
