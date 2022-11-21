@@ -74,13 +74,15 @@ I garasjen er det ønskelig med dobbelt fall for smeltevann og avrenning av bile
 - Borrekostnader for brønn
 - Kostnadsforskjell mellom vannboren varme i støyp kontra bjelkelag?
 
-**Floor heating in following rooms:**
+**Gulvvarme:**
 - Gang/Entre
 - Bad
 - Stue & oppholdsrom
 - Toalett i gang
 - Vaskerom
 - Kjøkken
+
+merk: alle rom med unntak av soverom skal ha gulvvarme
 
 #### **Dør typer**
 
