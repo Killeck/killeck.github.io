@@ -33,7 +33,7 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 # 1. Etasje Rom elementer
 Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 
-![1etg plantegning](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/1etgzoom.jpg?raw=true)
+![1etg plantegning](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/17thApril_wallextensionzoom.jpg?raw=true)
 
 ## Gym
 ### For Entrepeneurs
@@ -172,7 +172,7 @@ Gulvmatter
 ### For Oss
 - Skulle vi satt på en dør på garasjen, ved veggen mot treningsrommet?
 
-[Sett inn planskisse 2. etg]
+![2etg planskisse](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/17thApril_2ndfloor_wallextensionzoom.jpg?raw=true)
 
 # 2. Etasje Rom elementer
 ## Soverom (1 og 2)
