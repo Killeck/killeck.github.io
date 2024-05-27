@@ -19,7 +19,7 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 	- Watertight underfloring (stopping any rain etc to fall down onto the area outside the diningroom)
 	- Heater lamp 
 
-[Sett inn fasade tegninger]
+![1etg plantegning](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/1etgzoom.jpg?raw=true)
 
 
 # Hus Teknisk
