@@ -305,6 +305,7 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 </br>
 </br>
 </br>
+
 # The original ideas and thoughts
 ## Husets elementer
 
