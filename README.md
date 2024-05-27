@@ -1,6 +1,35 @@
 # Furuhaugen 15
 After much deliberation we ended up having to go to an architect. Months (18 or so) of searching for a suitable pre-made house to "tune", was just not possible. Evaluating multiple potential total entrepeneours and a few architects, we ended up with Heat architects in the end with Håvard Eide as the head architect.
 
+# Utvendig 1 ETG
+- Veggplater 
+- STO
+- Trevirke
+- stikk utvendig doble x 6
+
+# Utvendig 2 ETG
+- STO luftet kledning (villahvit)
+- Fasadeplater / STO alternativ farge.
+- **Takterrasse stor**:
+	- Klargjort til utekjøkken. Vann
+	- 2 Dobbel
+- **Balkong**: 
+	- 1 (dobbel)
+	- 6 Spotter i tak
+	- Watertight underfloring (stopping any rain etc to fall down onto the area outside the diningroom)
+	- Heater lamp 
+
+# Hus Teknisk
+- Vannboren varme gjennom Energibrønn
+- Solcelle til eget strømforbruk (sjekke med energieksperter)
+- Lyssensor for styring utelys.(felles for begge boenheter, bod og annen 
+- utebelysing)
+- solskjerming, integrert med vindu på
+	- stue
+	- spisestue
+	- loftsstue
+	- Kjøkken
+
 # 1. Etasje Rom elementer
 Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 ## Gym
@@ -211,34 +240,6 @@ Led-stripe belysning i tak?
 - **Annet**
 	- Led belysning kantramme i tak
 	- Skinner x 2 ved vindu for hotell garginer
-# Utvendig 1 ETG
-- Veggplater 
-- STO
-- Trevirke
-- stikk utvendig doble x 6
-# Utvendig 2 ETG
-- STO luftet kledning (villahvit)
-- Fasadeplater / STO alternativ farge.
-- **Takterrasse stor**:
-	- Klargjort til utekjøkken. Vann
-	- 2 Dobbel
-- **Balkong**: 
-	- 1 (dobbel)
-	- 6 Spotter i tak
-	- Watertight underfloring (stopping any rain etc to fall down onto the area outside the diningroom)
-	- Heater lamp 
-
-# Hus Teknisk
-- Vannboren varme
-- Energibrønn
-- Solcelle til eget strømforbruk (sjekke med energieksperter)
-- Lyssensor for styring utelys.(felles for begge boenheter, bod og annen 
-- utebelysing)
-- solskjerming, integrert med vindu på
-	- stue
-	- spisestue
-	- loftsstue
-	- Kjøkken
 
 ## Utvendig Bod
 ### For Entrepeneurs
