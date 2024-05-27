@@ -19,6 +19,9 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 	- Watertight underfloring (stopping any rain etc to fall down onto the area outside the diningroom)
 	- Heater lamp 
 
+[Sett inn fasade tegninger]
+
+
 # Hus Teknisk
 - Vannboren varme gjennom Energibrønn
 - Solcelle til eget strømforbruk (sjekke med energieksperter)
@@ -30,7 +33,7 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 	- loftsstue
 	- Kjøkken
 
-[1.etasje planløsning](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/A20-H01%20Plan%201.%20Etasje.pdf?)
+[Sett inn planskisse 1. etg]
 
 # 1. Etasje Rom elementer
 Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
@@ -170,6 +173,8 @@ Gulvmatter
 	- Utvendig vann (varmt og kalt) Nordvegg.
 ### For Oss
 - Skulle vi satt på en dør på garasjen, ved veggen mot treningsrommet?
+
+[Sett inn planskisse 2. etg]
 
 # 2. Etasje Rom elementer
 ## Soverom (1 og 2)
