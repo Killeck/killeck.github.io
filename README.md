@@ -30,10 +30,11 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 	- loftsstue
 	- Kjøkken
 
-![1etg plantegning](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/1etgzoom.jpg?raw=true)
-
 # 1. Etasje Rom elementer
 Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
+
+![1etg plantegning](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/1etgzoom.jpg?raw=true)
+
 ## Gym
 ### For Entrepeneurs
 - **Gulv**: Betong med støvsperre (lakk eller epoxy lignende)
