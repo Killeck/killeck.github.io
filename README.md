@@ -12,9 +12,9 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 - Fasadeplater / STO alternativ farge.
 - **Takterrasse stor**:
 	- Klargjort til utekjøkken. Vann
-	- 2 Dobbel
+	- 2 Dobbel stikkontakt
 - **Balkong**: 
-	- 1 (dobbel)
+	- 1 (dobbel) stikkontakt
 	- 6 Spotter i tak
 	- Watertight underfloring (stopping any rain etc to fall down onto the area outside the diningroom)
 	- Heater lamp 
