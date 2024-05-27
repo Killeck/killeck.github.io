@@ -30,6 +30,8 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 	- loftsstue
 	- Kjøkken
 
+![https://github.com/Killeck/killeck.github.io/blob/main/images/HE/A10-1%20Situasjonsplan.pdf](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/A20-H01%20Plan%201.%20Etasje.pdf)
+
 # 1. Etasje Rom elementer
 Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 ## Gym
