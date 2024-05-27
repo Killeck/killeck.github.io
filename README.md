@@ -172,9 +172,9 @@ Gulvmatter
 ### For Oss
 - Skulle vi satt på en dør på garasjen, ved veggen mot treningsrommet?
 
+# 2. Etasje Rom elementer
 ![2etg planskisse](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/17thApril_2ndfloor_wallextensionzoom.jpg?raw=true)
 
-# 2. Etasje Rom elementer
 ## Soverom (1 og 2)
 Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gjelder pr rom.
 ### For Entrepeneurs
