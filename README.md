@@ -299,12 +299,12 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 - **Annet**:
 	- Sentralstøvsuger sugebrett?
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
+
+
+
+
+
 
 # The original ideas and thoughts
 ## Husets elementer
