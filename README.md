@@ -4,7 +4,7 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 # Utvendig 1 ETG
 - Veggplater 
 - STO
-- Trevirke
+- Trevirke stående spile? Alternativt Bambus?
 - stikk utvendig doble x 6
 
 # Utvendig 2 ETG
