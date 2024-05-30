@@ -11,24 +11,28 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 - STO luftet kledning (villahvit)
 - Fasadeplater / STO alternativ farge.
 - **Takterrasse stor**:
-	- Klargjort til utekjøkken. Vann
-	- 2 Dobbel stikkontakt
+	- [ ] Klargjort til utekjøkken. Vann
+	- [ ] 2 Dobbel stikkontakt
 - **Balkong**: 
-	- 1 (dobbel) stikkontakt
-	- 6 Spotter i tak
-	- Watertight underfloring (stopping any rain etc to fall down onto the area outside the diningroom)
-	- Heater lamp 
+	- [ ] 1 (dobbel) stikkontakt
+	- [ ] 6 Spotter i tak
+	- [ ] Watertight underfloring (stopping any rain etc to fall down onto the area outside the diningroom)
+	- [ ] Heater lamp 
 
 # Hus Teknisk
-- Vannboren varme gjennom Energibrønn
-- Solcelle til eget strømforbruk (sjekke med energieksperter)
-- Lyssensor for styring utelys.(felles for begge boenheter, bod og annen 
-- utebelysing)
-- solskjerming, integrert med vindu på
-	- stue
-	- spisestue
-	- loftsstue
-	- Kjøkken
+- [ ] Vannboren varme gjennom energibrønn, Veske til vann varmepumpe. BRA: 300M$^2$ BYA: 252,5 M$^2$
+- [ ] Sentralluft/varmegjennvinning m/kjøling i 4 soverom eller alternative løsninger.
+	- [ ] Systemair/Villavent
+	- [ ] Flexit
+	- [ ] Makitech
+	- [ ] 
+- [ ] Solcelle til eget strømforbruk (sjekke med energieksperter)
+- [ ] Lyssensor for styring utelys.(felles for begge boenheter, bod og annen  utebelysing)
+- [ ] solskjerming, integrert med vindu på
+	- [ ] stue
+	- [ ] spisestue
+	- [ ] loftsstue
+	- [ ] Kjøkken
 
 # 1. Etasje Rom elementer
 Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
