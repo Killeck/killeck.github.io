@@ -70,7 +70,7 @@ Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 - **Gulv**: Parkett
 - **Vegg**: Malingsklar gips
 - **Tak**: Perferert gips for støydemping
-- **Stikkontakter**: 4 (doble) + 1 strøm i takboks senter spisestue tak + (RJ45 +1 singel støpsel vegg mot vaskerom + 1 strøm i takbox i trapp
+- **Stikkontakter**: 4 (doble) + 1 strøm i takboks senter spisestue tak + (RJ45 +1 singel støpsel vegg mot vaskerom + 1 strøm i takbox i trapp 
 - **Bryter**: Kontroll panel for smarthus [futurehome](https://futurehome.io)
 ## Matbod
 ### For Entrepeneurs
@@ -102,12 +102,12 @@ Punkter under skal plasseres enten i teknisk rom eller i bod under trapp. Egneth
 - **Gulv**: Lineoleum
 - **Vegg**: Sponplater malingsklar
 - **Stikkontakter**: 4 (doble) + RJ45
-- **Bryter**:Sensor med overstyringsmulighet
+- **Bryter**: Sensor med overstyringsmulighet
 ### Til vurdering
 Punkter under skal plasseres enten i bod under trapp eller teknisk rom. Egnethet og kost for installasjon, støy og tid for vann trasport til bad og kjøkken må vurderes for optimal løsning.
 - Plassering av sentral Støvsuger enhet
 - Plassering av VVS Breder og Veske til vann varmepumpeenhet
-- Plassering av Sikringsskap
+- Plassering av Sikringsskap med underleser
 - Plassering av balansert ventilasjon.
 - Plassering av robot støvsuger (Luke for skjult docking)
 - Plassering av robot mopp  (luke for skjult docking)
@@ -160,22 +160,28 @@ Gulvmatter
 - **Vegg**: våtromsplater? (tar gjerne en prat om denne)
 - **Tak**: Takplater/ Gips (usikker på hva som er best egnet)
 - **Stikkontakter**: 3 (doble) + 1 (kontakt tårn i benkeplate)
-- **Bryter**: 2 brytere, en ved hver dør
+- **Bryter**: 2 brytere, en ved hver dør begge trådløse
 - **Annet**:
-	- Sentralstøvsuger sugebrett (x1)
+	- Sentralstøvsuger sugebrett (x1) (Kan ekskluderes)
 	- Skittentøysjakt fra Bad
 ## Garasje
 ### For Entrepeneurs
 - **Gulv**: Betong (M/epoxy), Ønskelig med sluk og fall mot center og mot port, drensrist på utsiden av porten
 - **Vegg**: OSB Plater, (mur eller lignende minst 20 cm opp fra gulv)
 - **Ttasje Fellesak**: Gips over spon eller osb for å støydempe opp mot soverom
-- **Stikkontakter**: 2 elbil -ladere (easee charge Core eller lignende 22W effekt) , 4 (doble), 1 (dobbel takmotert) for garasjeport, ca 1/3 av lengden inn fra port
-- **Bryter**: sensor på vegg med overstyringsmulighet.
+- **Stikkontakter**:
+	- [] 2 elbil -ladere (easee charge Core eller lignende 22W effekt)
+	- [] 4 (doble),
+	- [] 1 (dobbel takmotert) for garasjeport, ca 1/3 av lengden inn fra port
+- **Bryter**:
+	- [] sensor på vegg med overstyringsmulighet
+	- [] trådløse brytere x 2
 - **Annet**:
-	- Utvendig vann (varmt og kalt) Nordvegg.
+	- [] Utvendig vann (varmt og kalt) Nordvegg.
 ### For Oss
 - Skulle vi satt på en dør på garasjen, ved veggen mot treningsrommet?
 
+  
 # 2. Etasje Rom elementer
 ![2etg plantegning](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/17thApril_wallextensionzoom.jpg?raw=true)
 
