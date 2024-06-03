@@ -19,43 +19,43 @@ Dette er representative 3D skisser for husets utside for å gi en full forståel
 # Fasade skisser
 Fasade skisser viser i 2D hvordan huset vil framstå. I første etasjen presenterer skisser stripete paneler som forestiller fasadeplater. Det er ikke nødvendig at disse følger denne stripete strukturen eller design.
 
-**Fasade Nord**
+## Fasade Nord
 Merk, denne skissen er oppført uten bod som skal bygges.
 ![FasadeNord Uten bod](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeNordZoomNoshed.jpg?raw=true)
 
-**Fasade Øst**
+## Fasade Øst
 
 ![Fasade Øst](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeOstZoom.jpg?raw=true)
 
-**Fasade Sør**
+## Fasade Sør
 
 ![Fasade Sør](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/fasadeSorZoom.jpg?raw=true)
 
-**Fasade Vest**
+## Fasade Vest
 
 ![Fasade Vest](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeVestZoom.jpg?raw=true)
 
-**Hybel **
+## Hybel
 
 ![Fokus Hybel](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/HybelFasadeZoom.jpg?raw=true)
 
-**Fasade Utsnitt Sør**
+## Fasade Utsnitt Sør
 
 ![Fasade Utsnitt Sør](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeSorUtsnittzoom.jpg?raw=true)
 
-**Fasade Sør Snitt A**
+## Fasade Sør Snitt A
 
 ![Fasade Sør Snitt A](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasdeSorSnittAzoom.jpg?raw=true)
 
-**Plassering På Tomt**
+## Plassering På Tomt
 
 ![Tomt med Husplassering](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Utomhuszoom.jpg?raw=true)
 
-**Kombinert skisse av Fasade NR1**
+## Kombinert skisse av Fasade NR1
 
 ![Fasader 1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/A40-1%20Fasader.jpg?raw=true)
 
-**Kombinert skisse av Fasader NR2**
+## Kombinert skisse av Fasader NR2
 
 ![Fasader 2](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/A40-Fasader%20og%20snitt.jpg?raw=true)
 
