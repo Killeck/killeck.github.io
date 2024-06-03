@@ -1,6 +1,10 @@
 # Furuhaugen 15
 After much deliberation we ended up having to go to an architect. Months (18 or so) of searching for a suitable pre-made house to "tune", was just not possible. Evaluating multiple potential total entrepeneours and a few architects, we ended up with Heat architects in the end with Håvard Eide as the head architect.
 
+
+![FasadeNord Uten bod](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeNordZoomNoshed.jpg?raw=true)
+
+
 # Utvendig 1 ETG
 - Veggplater 
 - STO
