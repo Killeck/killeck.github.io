@@ -1,7 +1,17 @@
 # Furuhaugen 15
 After much deliberation we ended up having to go to an architect. Months (18 or so) of searching for a suitable pre-made house to "tune", was just not possible. Evaluating multiple potential total entrepeneours and a few architects, we ended up with Heat architects in the end with Håvard Eide as the head architect.
 
+# 3D Skisser av huset
+Dette er representative 3D skisser for husets utside for å gi en full forståelse av hvordan huset skal framstå etter fullført oppføring.
+
+
+![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/1%203D-1.jpg?raw=true)
+
+
+
 # Fasade skisser
+Fasade skisser viser i 2D hvordan huset vil framstå. I første etasjen presenterer skisser stripete paneler som forestiller fasadeplater. Det er ikke nødvendig at disse følger denne stripete strukturen eller design.
+
 **Fasade Nord**
 Merk, denne skissen er oppført uten bod som skal bygges.
 ![FasadeNord Uten bod](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeNordZoomNoshed.jpg?raw=true)
