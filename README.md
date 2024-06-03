@@ -3,7 +3,7 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 
 # Fasade skisser
 **Fasade Nord**
-
+Merk, denne skissen er oppført uten bod som skal bygges.
 ![FasadeNord Uten bod](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeNordZoomNoshed.jpg?raw=true)
 
 **Fasade Øst**
