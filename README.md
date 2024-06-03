@@ -4,10 +4,17 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 # 3D Skisser av huset
 Dette er representative 3D skisser for husets utside for å gi en full forståelse av hvordan huset skal framstå etter fullført oppføring.
 
+# Inngangsparti og Perspektiv Øst
 
 ![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/1%203D-1.jpg?raw=true)
 
+# two
 
+![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/2%203D-2.jpg?raw=true)
+
+# three
+
+![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/3%203D-3.jpg?raw=true)
 
 # Fasade skisser
 Fasade skisser viser i 2D hvordan huset vil framstå. I første etasjen presenterer skisser stripete paneler som forestiller fasadeplater. Det er ikke nødvendig at disse følger denne stripete strukturen eller design.
@@ -43,6 +50,11 @@ Merk, denne skissen er oppført uten bod som skal bygges.
 **Plassering På Tomt**
 
 ![Tomt med Husplassering](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Utomhuszoom.jpg?raw=true)
+
+**Kombinert skisse av Fasade NR1**
+
+**Kombinert skisse av Fasader NR2**
+
 
 ---
 
