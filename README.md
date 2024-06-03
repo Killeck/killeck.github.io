@@ -8,11 +8,11 @@ Dette er representative 3D skisser for husets utside for å gi en full forståel
 
 ![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/1%203D-1.jpg?raw=true)
 
-# two
+# Nord-Ves
 
 ![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/2%203D-2.jpg?raw=true)
 
-# three
+# Sør-Vest
 
 ![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/3%203D-3.jpg?raw=true)
 
