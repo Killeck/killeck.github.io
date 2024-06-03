@@ -3,15 +3,19 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 
 # Fasade skisser
 **Fasade Nord**
+
 ![FasadeNord Uten bod](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeNordZoomNoshed.jpg?raw=true)
 
 **Fasade Øst**
+
 ![Fasade Øst](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeOstZoom.jpg?raw=true)
 
 **Fasade Sør**
-![Fasade Sør](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeSorZoom.jpg?raw=true)
+
+![Fasade Sør](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/fasadeSorZoom.jpg?raw=true)
 
 **Fasade Vest**
+
 ![Fasade Vest](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeVestZoom.jpg?raw=true)
 
 ** **
