@@ -53,8 +53,11 @@ Merk, denne skissen er oppført uten bod som skal bygges.
 
 **Kombinert skisse av Fasade NR1**
 
+![Fasader 1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/A40-1%20Fasader.jpg?raw=true)
+
 **Kombinert skisse av Fasader NR2**
 
+![Fasader 2](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/A40-Fasader%20og%20snitt.jpg?raw=true)
 
 ---
 
@@ -110,6 +113,7 @@ Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 - Speil
 - Weights rack
 - Foldout Gym [Wallmountrack](https://www.roguefitness.com/eu/rogue-r-3w-fold-back-wall-mount-rack)
+
 ## Stue
 ### For Entrepeneurs
 - **Gulv**: Parkett
@@ -123,6 +127,7 @@ Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 ### For oss
 - Led striper i nedfelt kant 
 - Innebygde høytalere
+
 ## Spisestue
 ### For Entrepeneurs
 - **Gulv**: Parkett
@@ -130,6 +135,7 @@ Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 - **Tak**: Perferert gips for støydemping
 - **Stikkontakter**: 4 (doble) + 1 strøm i takboks senter spisestue tak + (RJ45 +1 singel støpsel vegg mot vaskerom + 1 strøm i takbox i trapp 
 - **Bryter**: Kontroll panel for smarthus [futurehome](https://futurehome.io)
+
 ## Matbod
 ### For Entrepeneurs
 - **Gulv**: Flis/lineoleum
@@ -141,6 +147,7 @@ Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 Punkter under skal plasseres enten i bod under trapp eller i matbod. Egnethet og kost for installasjon, må vurderes. Luke for skjult docking
 - Plassering av robot støvsuger
 - Plassering av robot mopp 
+
 ## Teknisk Rom
 ### For Entrepeneurs
 - **Gulv**: Flis/lineoleum
@@ -150,11 +157,12 @@ Punkter under skal plasseres enten i bod under trapp eller i matbod. Egnethet og
 - **Bryter**: Sensor med overstyringsmulighet
 ### Til vurdering
 Punkter under skal plasseres enten i teknisk rom eller i bod under trapp. Egnethet og kost for installasjon, støy og tid for vann trasport til bad og kjøkken må vurderes for optimal løsning.
-+ Plassering av sentral Støvsuger enhet
-+ Plassering av VVS Breder og Veske til vann varmepumpeenhet
-+ Plassering av Sikringsskap
-+ Plassering av balansert ventilasjon.
-+ Hjemme sentral for internet
+- Plassering av sentral Støvsuger enhet
+- Plassering av VVS Breder og Veske til vann varmepumpeenhet
+- Plassering av Sikringsskap
+- Plassering av balansert ventilasjon.
+- Hjemme sentral for internet
+
 ## Bod under Trapp
 ### For Entrepeneurs
 - **Gulv**: Lineoleum
@@ -169,6 +177,7 @@ Punkter under skal plasseres enten i bod under trapp eller teknisk rom. Egnethet
 - Plassering av balansert ventilasjon.
 - Plassering av robot støvsuger (Luke for skjult docking)
 - Plassering av robot mopp  (luke for skjult docking)
+
 ## Kjøkken
 ### For Entrepeneurs
 - **Gulv**: Fliser/parkett
@@ -185,6 +194,7 @@ Punkter under skal plasseres enten i bod under trapp eller teknisk rom. Egnethet
 - **Annet**: 
 	- Oppvaskkum 1 1/2, batteri med vannkoker og kullsyre
 	- Sentralstøvsuger sugebrett (x1)
+
 ## Entre
 ### For Entrepeneurs
 - **Gulv**: Flis (Nedsenket felt fra dør mot garderobe. Bredde 1m, lengde 1.5 meter. Dybde 4 mm) <-- Her må vi vurdere plasering på skyvedør inn til garderobe og lengden på matte og feltet)
@@ -198,6 +208,7 @@ Punkter under skal plasseres enten i bod under trapp eller teknisk rom. Egnethet
 Gulvmatter
 - https://www.teppeabo.no/dura-matte-antraciet_582p.html
 - https://www.ruugs.no/catalog/product/view/id/6736/s/clean-rod-svart/category/131/
+
 ## WC Entre
 ### For Entrepeneurs
 - **Gulv**: Flis + varmekabler
@@ -205,6 +216,7 @@ Gulvmatter
 - **Tak**: gips
 - **Stikkontakter**: ingen, Strømboks i tak, for taklys, og på vegg over servant for lys i speil
 - **Bryter**: sensor
+
 ## Garderobe Entre
 ### For Entrepeneurs
 - **Gulv**: Flis (samme som i gang)
@@ -212,6 +224,7 @@ Gulvmatter
 - **Tak**: Gips
 - **Stikkontakter**: 0, strømbox i øvre vegg mot skyvedørsside for oppkobling led list
 - **Bryter**: Sensor montert i tak
+
 ## Vaskerom
 ### For Entrepeneurs
 - **Gulv**: Flis/lineoleum
@@ -222,6 +235,7 @@ Gulvmatter
 - **Annet**:
 	- Sentralstøvsuger sugebrett (x1) (Kan ekskluderes)
 	- Skittentøysjakt fra Bad
+
 ## Garasje
 ### For Entrepeneurs
 - **Gulv**: Betong (M/epoxy), Ønskelig med sluk og fall mot center og mot port, drensrist på utsiden av porten
@@ -243,7 +257,6 @@ Gulvmatter
 # 2. Etasje Rom elementer
 ![2etg plantegning](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/17thApril_wallextensionzoom.jpg?raw=true)
 
-
 ## Soverom (1 og 2)
 Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gjelder pr rom.
 ### For Entrepeneurs
@@ -254,6 +267,7 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 - **Bryter**: dimmer
 - **Annet**:
 	- Kjølefunksjon (enten via balansert ventilasjon eller annen løsning)
+
 ## Bod
 ### For Entrepeneurs
 - **Gulv**: Parkett
@@ -261,6 +275,7 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 - **Tak**: Gips
 - **Stikkontakter**: Strøm i takboks
 - **Bryter**: 1
+
 ## Gang
 ### For Entrepeneurs
 - **Gulv**: Parkett
@@ -270,6 +285,7 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 - **Bryter**: 1 dimmer
 - **Annet**: 
 	- Rekkverk: Glass?
+
 ## Bad
 ### For Entrepeneurs
 - **Gulv**: Flis + varmekabler
@@ -277,10 +293,11 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 - **Tak**: Gips/takplater (egnethet)
 - **Stikkontakter**: Innebygd i Badeinnredning, minimum 4 kontakt punkter.
 - **Bryter**: 1 split bryter 
-- - **Annet**:
+- **Annet**:
 	- Dusj hjørne plassbygd, ca 90 x 120, med innebygde nisjer i vegg til shampo etc.
 	- Avtrekksvifte vegg Nord.
 	- Skittentøyssjakt (best egnet her eller Walk-in)
+
 ## Walk-in
 ### For Entrepeneurs
 - **Gulv**: Teppe
@@ -293,6 +310,7 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 ### For oss
 Led-stripe belysning i tak?
 - Innebygd strykebrett i garderobeskap. Strømpunkt ca 110 cm opp fra gulv. (gjemt i skap?).
+
 ## Hovedsoverom
 ### For Entrepeneurs
 - **Gulv**: Teppe
@@ -304,6 +322,7 @@ Led-stripe belysning i tak?
 	- Led kantramme i tak
 	- Innfellet gardin lister (hotell stil) for 2 spor gardiner i hjørnet
 	- Kjølefunksjon (via sentralluft eller alternativ)
+
 ## Stue
 ### For Entrepeneurs
 - **Gulv**: parket eller teppe
@@ -324,6 +343,7 @@ Led-stripe belysning i tak?
 - **Bryter**: 1 bryter ved dør + 1 bryter for 2 av dobel stikk.
 # Utleiedel
 Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentral støvsuger.
+
 ## Bod
 ### For Entrepeneurs
 - **Gulv**: Parkett
@@ -333,6 +353,7 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 - **Bryter**: nei
 - **Annet**:
 	- Branndør
+
 ## Soverom
 ### For Entrepeneurs
 - **Gulv**: Parkett
@@ -340,6 +361,7 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 - **Tak**: takplater/gipsplater
 - **Stikkontakter**: 3 (doble) + RJ45 + strømboks i tak
 - **Bryter**: 1 dimmer
+
 ## Bad
 ### For Entrepeneurs
 - **Gulv**: Flis + Varmekabel
@@ -347,6 +369,7 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 - **Tak**: gips / Takplater (egnethet)
 - **Stikkontakter**: 1 Dobbel for vaskemaskin/tørketrommel, 1 ved servant
 - **Bryter**: 1 dimmer
+
 ## Gang
 ### For Entrepeneurs
 - **Gulv**: Flis/Parkett
@@ -356,6 +379,7 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 - **Bryter**: 2 brytere (en for inne og en for utelys)
 - **Annet**:
 	- Sentralstøvsuger sugebrett?
+
 ## Allrom
 ### For Entrepeneurs
 - **Gulv**: Flis ved kjøkken/Parkett resterende
