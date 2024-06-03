@@ -20,19 +20,19 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 
 **Hybel **
 
-![Fasade Vest](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/HybelFasadeZoom.jpg?raw=true)
+![Fokus Hybel](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/HybelFasadeZoom.jpg?raw=true)
 
 ** Utsnitt Sør**
 
-![Fasade Vest](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeSorUtsnittzoom.jpg?raw=true)
+![Fasade 1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasadeSorUtsnittzoom.jpg?raw=true)
 
 **Fasade Sør Snitt A**
 
-![Fasade Vest](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasdeSorSnittAZoom.jpg?raw=true)
+![Fasade Sør1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasdeSorSnittAZoom.jpg?raw=true)
 
 **Plassering På Tomt**
 
-![Fasade Vest](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Utomhuszoom.jpg?raw=true)
+![Tomt med Husplassering](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Utomhuszoom.jpg?raw=true)
 
 ---
 
