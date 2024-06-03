@@ -4,15 +4,15 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 # 3D Skisser av huset
 Dette er representative 3D skisser for husets utside for å gi en full forståelse av hvordan huset skal framstå etter fullført oppføring.
 
-# Inngangsparti og Perspektiv Øst
+## Inngangsparti og Perspektiv Øst
 
 ![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/1%203D-1.jpg?raw=true)
 
-# Nord-Ves
+## Nord-Vest
 
 ![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/2%203D-2.jpg?raw=true)
 
-# Sør-Vest
+## Sør-Vest
 
 ![1-1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/3%203D-3.jpg?raw=true)
 
