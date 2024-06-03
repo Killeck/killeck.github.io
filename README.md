@@ -42,7 +42,8 @@ After much deliberation we ended up having to go to an architect. Months (18 or 
 	- [ ] Heater lamp 
 
 # Hus Teknisk
-- [ ] Vannboren varme gjennom energibrønn, Veske til vann varmepumpe. BRA: 300M$^2$ BYA: 252,5 M$^2$
+- [ ] Vannboren varme gjennom energibrønn (anslagsvis 200m brønn)
+- [ ] Veske til vann varmepumpe som kan levere 8-9KW. BRA: 300M$^2$ BYA: 252,5 M$^2$
 - [ ] Sentralluft/varmegjennvinning m/kjøling i 4 soverom eller alternative løsninger.
 	- [ ] Systemair/Villavent
 	- [ ] Flexit
