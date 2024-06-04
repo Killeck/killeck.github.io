@@ -47,10 +47,6 @@ Merk, denne skissen er oppført uten bod som skal bygges.
 
 ![Fasade Sør Snitt A](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/FasdeSorSnittAzoom.jpg?raw=true)
 
-## Plassering På Tomt
-
-![Tomt med Husplassering](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Utomhuszoom.jpg?raw=true)
-
 ## Kombinert skisse av Fasade NR1
 
 ![Fasader 1](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/A40-1%20Fasader.jpg?raw=true)
@@ -58,6 +54,10 @@ Merk, denne skissen er oppført uten bod som skal bygges.
 ## Kombinert skisse av Fasader NR2
 
 ![Fasader 2](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Converted/A40-Fasader%20og%20snitt.jpg?raw=true)
+
+## Husets Plassering På Tomt
+
+![Tomt med Husplassering](https://github.com/Killeck/killeck.github.io/blob/main/images/HE/Utomhuszoom.jpg?raw=true)
 
 ---
 
