@@ -80,7 +80,7 @@ Merk: Trappetårn skal dekkes med samme materialer/farge som fasadeplater i 1.et
 	- [ ] Heater lamp 
 
 # Hus Teknisk
-- [ ] Vannboren varme gjennom energibrønn (anslagsvis 200m brønn)
+- [ ] Vannboren varme gjennom energibrønn (anslagsvis 200m brønn), med vannbåren varme satt i avrettingsmasse
 - [ ] Veske til vann varmepumpe som kan levere 8-9KW. BRA: 300M$^2$ BYA: 252,5 M$^2$
 - [ ] Sentralluft/varmegjennvinning m/kjøling i 4 soverom eller alternative løsninger. Her antaes det at kjøling og luft.
 - [ ] Solcelle til eget strømforbruk
