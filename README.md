@@ -63,13 +63,13 @@ Merk: Trappetårn skal dekkes med samme materialer/farge som fasadeplater i 1.et
 
 # Utvendig 1 ETG
 - Veggplater 
-- STO
+- Stående 2 fals panel
 - Trevirke stående spile
 - stikk utvendig doble x 6
 
 # Utvendig 2 ETG
-- STO luftet kledning (villahvit)
-- Fasadeplater / STO alternativ farge.
+- Kledning (villahvit)
+- Fasadeplater / Trevirke alternativ farge.
 - **Takterrasse stor**:
 	- [ ] Klargjort til utekjøkken. Vann (varmt og kalt)
 	- [ ] 2 Dobbel stikkontakt
@@ -83,7 +83,6 @@ Merk: Trappetårn skal dekkes med samme materialer/farge som fasadeplater i 1.et
 - [ ] Vannboren varme gjennom energibrønn (anslagsvis 200m brønn), med vannbåren varme satt i avrettingsmasse
 - [ ] Veske til vann varmepumpe som kan levere 8-9KW. BRA: 300M$^2$ BYA: 252,5 M$^2$
 - [ ] Sentralluft/varmegjennvinning m/kjøling i 4 soverom eller alternative løsninger. Her antaes det at kjøling og luft.
-- [ ] Solcelle til eget strømforbruk
 - [ ] Lyssensor for styring utelys.(felles for begge boenheter, bod og annen  utebelysing)
 - [ ] solskjerming, integrert med vindu på
 	- [ ] stue
@@ -128,7 +127,7 @@ Alle rom med unntak av WC og Bad i hybel skal ha vannbåren varme.
 - **Bryter**: Kontroll panel for smarthus
 
 ## Matbod
-- **Vegg**: Sponplater malingsklar
+- **Vegg**: Gips malingsklar
 - **Tak**: Gips/takplater (egnethet)
 - **Stikkontakter**: 2 (Doble) + takboks
 - **Bryter**: Sensor med overstyringsmulighet
@@ -138,7 +137,7 @@ Punkter under skal plasseres enten i bod under trapp eller i matbod. Egnethet og
 - Plassering av robot mopp 
 
 ## Teknisk Rom
-- **Vegg**: sponplater malingsklar
+- **Vegg**: Gips malingsklar
 - **Tak**: Gips/takplater (egnethet & Pris)
 - **Stikkontakter**: 5 Doble + RJ45
 - **Bryter**: Sensor med overstyringsmulighet
@@ -151,7 +150,7 @@ Punkter under skal plasseres enten i teknisk rom eller i bod under trapp. Egneth
 - Hjemme sentral for internet
 
 ## Bod under Trapp
-- **Vegg**: Sponplater malingsklar
+- **Vegg**: Gips malingsklar
 - **Stikkontakter**: 4 (doble) + RJ45
 - **Bryter**: Sensor med overstyringsmulighet
 ### Til vurdering
@@ -164,7 +163,7 @@ Punkter under skal plasseres enten i bod under trapp eller teknisk rom. Egnethet
 - Plassering av robot mopp  (luke for skjult docking)
 
 ## Kjøkken
-- **Vegg**: sponplater klar til maling
+- **Vegg**: Gips malingsklar
 - **Tak**: gips/takplate? (pris og egenthet) (Trenger vi støydempende plater her også)
 - **Stikkontakter**: 4 strømtårn i benkeplater (må ha usbc og usb+stikk x 2) (stikkontakter til å dekke brunevare behovet, se under)
 - **Bryter**: Dimmer til spotter
@@ -179,7 +178,7 @@ Punkter under skal plasseres enten i bod under trapp eller teknisk rom. Egnethet
 	- Sentralstøvsuger sugebrett (x1)
 ## Entre
 - **Gulv**: Flis (Nedsenket felt fra dør mot garderobe. Bredde 1m, lengde 1.5 meter. Dybde 4 mm) <-- Her må vi vurdere plasering på skyvedør inn til garderobe og lengden på matte og feltet)
-- **Vegg**: Malingsklar
+- **Vegg**: Gips malingsklar
 - **Tak**: Gips
 - **Stikkontakter**: 2 (Doble)
 - **Bryter**: 1 Dimer og 1 bryter for utelys
@@ -188,14 +187,14 @@ Punkter under skal plasseres enten i bod under trapp eller teknisk rom. Egnethet
 
 ## WC Entre
 - **Gulv**: Flis + varmekabler
-- **Vegg**: Malingsklar
+- **Vegg**: Gips malingsklar
 - **Tak**: gips
 - **Stikkontakter**: ingen, Strømboks i tak, for taklys, og på vegg over servant for lys i speil
 - **Bryter**: sensor
 
 ## Garderobe Entre
 - **Gulv**: Flis
-- **Vegg**: sponplater klar til maling
+- **Vegg**: Gips malingsklar
 - **Tak**: Gips
 - **Stikkontakter**: 0, strømbox i øvre vegg mot skyvedørsside for oppkobling led list
 - **Bryter**: Sensor montert i tak
@@ -228,7 +227,7 @@ Punkter under skal plasseres enten i bod under trapp eller teknisk rom. Egnethet
 
 ## Soverom (1 og 2)
 Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gjelder begge rom.
-- **Vegg**: Sponplate, malingsklar/tapetklar
+- **Vegg**: Gips malingsklar/tapetklar
 - **Tak**: Gips/ Takplater, usikker på hva er best for oss her.
 - **Stikkontakter**: 4 (doble) + RJ45, + takbox for strøm til evt taklampe
 - **Bryter**: dimmer
@@ -236,13 +235,13 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 	- Kjølefunksjon (enten via balansert ventilasjon eller annen løsning)
 
 ## Bod
-- **Vegg**: sponplate klar til maling
+- **Vegg**: Gips malingsklar
 - **Tak**: Gips
 - **Stikkontakter**: Strøm i takboks
 - **Bryter**: 1
 
 ## Gang
-- **Vegg**: Malingsklar
+- **Vegg**: Gips malingsklar
 - **Tak**: gips
 - **Stikkontakter**: 2 (doble) + 2 (single) montert opp mot tak + RJ45
 - **Bryter**: 1 dimmer
@@ -261,7 +260,7 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 	- Skittentøyssjakt (best egnet her eller Walk-in)
 
 ## Walk-in
-- **Vegg**: Sponplater klar til maling
+- **Vegg**: Gips malingsklar
 - **Tak**: Gips
 - **Stikkontakter**: 3 (doble)
 - **Bryter**: 2 (slyngekoblet)
@@ -269,7 +268,7 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 	- Skittentøyssjakt (best egnet her eller på bad)
 
 ## Hovedsoverom
-- **Vegg**: klar til maling
+- **Vegg**: Gips malingsklar
 - **Tak**: gips/takplater (egnethet)
 - **Stikkontakter**: 2 Dobbel ved vindusnisje (vest og nord), hotel setup ved nattbord, kontaktlading og strøm x 2 + Usb/usbc ladepunk ved nattbordslampe. + RJ45
 - **Bryter**: 1 ved dør og ved nordre seng i slynge.
@@ -279,7 +278,7 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 	- Kjølefunksjon (via sentralluft eller alternativ)
 
 ## Stue
-- **Vegg**: klar til maling
+- **Vegg**: Gips malingsklar
 - **Tak**: Gips perferert for støydemping
 - **Stikkontakter**: 5 (doble) + 1 (singel M/ magnetfeste) i tak over senter vindu + RJ45
 - **Bryter**: 2 dimmer (en for ute og 1 for inne) belysning
@@ -298,7 +297,7 @@ Begge disse rommene har lik utforming så denne listen skrives kun 1 gang og gje
 Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentral støvsuger.
 
 ## Bod
-- **Vegg**: Sponplater / Gipsplater klar til maling
+- **Vegg**: Gips malingsklar
 - **Tak**: Gip
 - **Stikkontakter**: Strømpunkt i tak 
 - **Bryter**: nei
@@ -306,7 +305,7 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 	- Branndør
 
 ## Soverom
-- **Vegg**: Sponplater / Gipsplater klar til maling
+- **Vegg**: Gips malingsklar
 - **Tak**: takplater/gipsplater
 - **Stikkontakter**: 3 (doble) + RJ45 + strømboks i tak
 - **Bryter**: 1 dimmer
@@ -319,7 +318,7 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 - **Bryter**: 1 dimmer
 
 ## Gang
-- **Vegg**: Sponplater malingsklar
+- **Vegg**: Gips malingsklar
 - **Tak**: gips / takplater
 - **Stikkontakter**: 2 (doble)
 - **Bryter**: 2 brytere (en for inne og en for utelys)
@@ -327,14 +326,10 @@ Utleiedelen skal også være koblet på vannbåren varme, sentral luft og sentra
 	- Sentralstøvsuger sugebrett?
 
 ## Allrom
-- **Vegg**: Sponplater malingsklar
+- **Vegg**: Gips malingsklar
 - **Tak**: gips / takplater (egnethet)
 - **Stikkontakter**: 5 (doble), 1 tårn i benkeplate, RJ45, 1 (singel)
 - **Bryter**: 2 brytere, en for kjøkken belysning, 1 for rombelysing (dimmer)
 - **Annet**:
 	- Sentralstøvsuger sugebrett?
 
-
----
-After much deliberation we ended up having to go to an architect. Months (18 or so) of searching for a suitable pre-made house to "tune", was just not possible. Evaluating multiple potential total entrepeneours and a few architects, we ended up with Heat architects in the end with Håvard Eide as the head architect.
----
