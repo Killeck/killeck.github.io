@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Viking Elder Runes';
+    src: url('fonts/VikingElderRunes-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Viking Elder Runes', serif;
+    color: #006D77;
+    background-color: #EDF6F9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFDDD2;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    height: 50px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #006D77;
+    font-family: 'Viking Elder Runes', sans-serif;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+h1, h2, h3 {
+    color: #006D77;
+    font-family: 'Viking Elder Runes', serif;
+}
+
+footer {
+    background-color: #FFDDD2;
+    text-align: center;
+    padding: 10px 0;
+    font-family: 'Viking Elder Runes', serif;
+
+}
