@@ -46,6 +46,18 @@ nav ul {
 
 nav ul li {
     margin: 0 15px; /* Space between menu items */
+    position: relative;
+}
+
+nav ul li::after {
+    content: "|"; /* Grey bar between menu items */
+    color: grey;
+    position: absolute;
+    right: -15px; /* Position the bar */
+}
+
+nav ul li:last-child::after {
+    content: ""; /* Remove the bar after the last item */
 }
 
 nav ul li a {
@@ -79,6 +91,7 @@ nav ul li a {
     padding: 20px; /* Padding inside column */
     color: white; /* White text color for readability */
     display: flex;
+    flex-direction: column;
     justify-content: center; /* Center the content horizontally */
     align-items: center; /* Center the content vertically */
 }
