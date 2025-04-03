@@ -89,7 +89,7 @@ nav ul li a {
 
 /* Left column styling with background image */
 .left-column {
-    width: 30%; /* 30% width */
+    width: 25%; /* 25% width */
     background: url('img/Columns.jpeg') no-repeat center center; /* Background image for left column */
     background-size: cover; /* Cover the entire column */
     background-position: left top; /* Position the left part of the image */
@@ -99,7 +99,7 @@ nav ul li a {
 
 /* Center column styling with petroleum teal background */
 .center-column {
-    width: 40%; /* 40% width */
+    width: 50%; /* 50% width */
     background-color: #006b6b; /* Petroleum teal color */
     padding: 20px; /* Padding inside column */
     color: white; /* White text color for readability */
@@ -116,7 +116,7 @@ nav ul li a {
 
 /* Right column styling with background image */
 .right-column {
-    width: 30%; /* 30% width */
+    width: 25%; /* 25% width */
     background: url('img/Columns.jpeg') no-repeat center center; /* Background image for right column */
     background-size: cover; /* Cover the entire column */
     background-position: right top; /* Position the right part of the image */
