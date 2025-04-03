@@ -1,0 +1,186 @@
+/* General body styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #7A8B9C; /* Background color */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the body takes up the full height of the viewport */
+}
+
+/* Top banner styling */
+.top-banner {
+    height: 15vh; /* 15% of the viewport height */
+    width: 100%; /* Full width */
+    background-color: #d9e3f0; /* Light blue-grey color from the sky */
+    border-bottom: 2px solid #8a9ba8; /* Darker grey-blue for contrast */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Logo styling */
+.logo img {
+    max-height: 100%; /* Ensure logo fits within the banner */
+}
+
+/* Secondary banner styling */
+.secondary-banner {
+    height: 50px; /* Fixed height */
+    width: 100%; /* Full width */
+    background-color: rgba(0, 0, 0, 0.9); /* Darker semi-transparent background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Navigation menu styling */
+nav ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0;
+    margin: 0;
+    display: flex; /* Display menu items horizontally */
+    justify-content: center; /* Center the menu items */
+}
+
+nav ul li {
+    margin: 0 15px; /* Space between menu items */
+    position: relative;
+}
+
+nav ul li::after {
+    content: "|"; /* Grey bar between menu items */
+    color: grey;
+    position: absolute;
+    right: -15px; /* Position the bar */
+}
+
+nav ul li:last-child::after {
+    content: ""; /* Remove the bar after the last item */
+}
+
+nav ul li a {
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+}
+
+/* Home button styling */
+.home-button {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    background: url('img/icon.jpeg') no-repeat;
+    background-position: bottom left; /* Position the image */
+    background-size: 400%; /* Adjust the size to zoom into the specific part */
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    text-indent: -9999px; /* Hide the text */
+}
+
+/* Main content section styling */
+.main-content {
+    display: flex; /* Display columns horizontally */
+    justify-content: space-between; /* Space between columns */
+    padding: 20px; /* Padding around content */
+    flex: 1; /* Allow the main content to take up remaining space */
+}
+
+/* Left column styling with background image */
+.left-column {
+    flex: 0 0 30%; /* Fixed width of 30% */
+    background: url('img/Columns.jpeg') no-repeat center center; /* Background image for left column */
+    background-size: cover; /* Cover the entire column */
+    background-position: left top; /* Position the left part of the image */
+    padding: 20px; /* Padding inside column */
+    color: white; /* White text color for readability */
+}
+
+/* Center column styling with petroleum teal background */
+.center-column {
+    flex: 1; /* Take up remaining space */
+    background-color: #006b6b; /* Petroleum teal color */
+    padding: 20px; /* Padding inside column */
+    color: white; /* White text color for readability */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+}
+
+.about-content, .contact-content {
+    width: 100%; /* Set width for the content */
+    text-align: left; /* Left align the text within the content */
+}
+
+/* Right column styling with background image */
+.right-column {
+    flex: 0 0 30%; /* Fixed width of 30% */
+    background: url('img/Columns.jpeg') no-repeat center center; /* Background image for right column */
+    background-size: cover; /* Cover the entire column */
+    background-position: right top; /* Position the right part of the image */
+    padding: 20px; /* Padding inside column */
+    color: white; /* White text color for readability */
+}
+
+/* Products content styling */
+.products-content {
+    width: 100%; /* Set width for the products content */
+    text-align: left; /* Left align the text within the products content */
+}
+
+.product {
+    display: flex; /* Display image and details side by side */
+    align-items: center; /* Align items vertically */
+    margin-bottom: 20px; /* Space between products */
+}
+
+.product-image {
+    flex: 1; /* Take up 50% of the space */
+    margin-right: 20px; /* Space between image and details */
+}
+
+.product-details {
+    flex: 1; /* Take up 50% of the space */
+    border-left: 1px solid lightgrey; /* Vertical line between image and details */
+    padding-left: 20px; /* Padding inside details */
+}
+
+.product img {
+    width: 100%; /* Ensure images fit within the product container */
+    max-width: 200px; /* Set a maximum width for images */
+    display: block;
+    margin-bottom: 10px; /* Space between image and text */
+}
+
+.buy-button {
+    background-color: #006b6b; /* Petroleum teal color */
+    color: white; /* White text color */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px; /* Space above the button */
+}
+
+.buy-button:hover {
+    background-color: #004f4f; /* Darker teal color on hover */
+}
+
+/* Footer styling */
+footer {
+    background-color: #4a5b6c; /* Dark grey-blue color from shadows */
+    border-top: 2px solid #2e3b47; /* Even darker shade for contrast */
+    text-align: center; /* Center the footer text */
+    padding: 10px;
+    color: white; /* White text color for readability */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer hr {
+    border: none;
+    border-top: 1px solid white; /* Horizontal line above the footer text */
+}
