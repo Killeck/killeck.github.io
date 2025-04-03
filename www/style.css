@@ -1,77 +1,85 @@
+/* General body styling */
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: url('background.jpg') no-repeat center center fixed;
-    background-size: cover;
+    background: url('background.jpg') no-repeat center center fixed; /* Background image */
+    background-size: cover; /* Cover the entire page */
 }
 
+/* Top banner styling */
 .top-banner {
-    height: 15vh;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    height: 15vh; /* 15% of the viewport height */
+    width: 100%; /* Full width */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+/* Logo styling */
 .logo img {
-    max-height: 100%;
+    max-height: 100%; /* Ensure logo fits within the banner */
 }
 
+/* Secondary banner styling */
 .secondary-banner {
-    height: 50px;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.9);
+    height: 50px; /* Fixed height */
+    width: 100%; /* Full width */
+    background-color: rgba(0, 0, 0, 0.9); /* Darker semi-transparent background */
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+/* Navigation menu styling */
 nav ul {
-    list-style-type: none;
+    list-style-type: none; /* Remove default list styling */
     padding: 0;
     margin: 0;
-    display: flex;
+    display: flex; /* Display menu items horizontally */
 }
 
 nav ul li {
-    margin: 0 15px;
+    margin: 0 15px; /* Space between menu items */
 }
 
 nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
 }
 
+/* Main content section styling */
 .main-content {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
+    display: flex; /* Display columns horizontally */
+    justify-content: space-between; /* Space between columns */
+    padding: 20px; /* Padding around content */
 }
 
+/* Column styling */
 .left-column, .center-column, .right-column {
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background for overlay effect */
+    padding: 20px; /* Padding inside columns */
 }
 
 .left-column {
-    width: 30%;
+    width: 30%; /* 30% width */
 }
 
 .center-column {
-    width: 40%;
+    width: 40%; /* 40% width */
 }
 
 .right-column {
-    width: 30%;
+    width: 30%; /* 30% width */
 }
 
+/* Bottom banner styling */
 .bottom-banner {
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
-    text-align: center;
-    padding: 10px;
-    color: white;
+    width: 100%; /* Full width */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    text-align: center; /* Center text */
+    padding: 10px; /* Padding inside banner */
+    color: white; /* White text color */
 }
