@@ -66,6 +66,19 @@ nav ul li a {
     font-weight: bold; /* Bold text */
 }
 
+/* Home button styling */
+.home-button {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    background: url('img/icon.jpeg') no-repeat;
+    background-position: bottom left; /* Position the image */
+    background-size: 400%; /* Adjust the size to zoom into the specific part */
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    text-indent: -9999px; /* Hide the text */
+}
+
 /* Main content section styling */
 .main-content {
     display: flex; /* Display columns horizontally */
