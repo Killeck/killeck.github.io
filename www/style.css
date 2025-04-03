@@ -25,6 +25,13 @@ body {
     max-height: 100%; /* Ensure logo fits within the banner */
 }
 
+.logo-img {
+    width: 50px; /* Set the width to 50px */
+    height: 50px; /* Set the height to 50px */
+    background-color: transparent; /* Ensure the background is transparent */
+    display: block; /* Ensure the image is displayed as a block element */
+}
+
 /* Secondary banner styling */
 .secondary-banner {
     height: 50px; /* Fixed height */
