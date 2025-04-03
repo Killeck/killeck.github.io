@@ -15,6 +15,7 @@ body {
     border-bottom: 2px solid #8a9ba8; /* Darker grey-blue for contrast */
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 /* Logo styling */
@@ -58,21 +59,22 @@ nav ul li a {
 }
 
 /* Column styling */
-.left-column, .center-column, .right-column {
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background for overlay effect */
-    padding: 20px; /* Padding inside columns */
-}
-
 .left-column {
     width: 30%; /* 30% width */
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background for overlay effect */
+    padding: 20px; /* Padding inside column */
 }
 
 .center-column {
     width: 40%; /* 40% width */
+    background-color: #006b6b; /* Petroleum teal color */
+    padding: 20px; /* Padding inside column */
 }
 
 .right-column {
     width: 30%; /* 30% width */
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background for overlay effect */
+    padding: 20px; /* Padding inside column */
 }
 
 /* Bottom banner styling */
@@ -80,7 +82,7 @@ nav ul li a {
     width: 100%; /* Full width */
     background-color: #4a5b6c; /* Dark grey-blue color from shadows */
     border-top: 2px solid #2e3b47; /* Even darker shade for contrast */
-    text-align: center;
-    padding: 10px;
+    text-align: center; /* Center text */
+    padding: 10px; /* Padding inside banner */
     color: white; /* White text color for readability */
 }
