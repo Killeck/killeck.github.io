@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Our Products - PEREGRINATE</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
 </head>
 <body>
+    <!-- Header section -->
     <header>
         <div class="logo">
-            <img src="www/img/logo.png" alt="PEREGRINATE Logo">
+            <img src="img/logo.png" alt="PEREGRINATE Logo"> <!-- Updated logo location -->
         </div>
         <nav>
             <ul>
@@ -20,22 +21,55 @@
             </ul>
         </nav>
     </header>
-    <section id="products">
-        <h2>Our Products</h2>
-        <div class="product">
-            <h3>PEREGRINATE Journal</h3>
-            <p>A beautifully designed journal that guides users through personal exploration and reflective growth.</p>
+    
+    <!-- Main content section split into 3 columns (30% | 40% | 30%) -->
+    <main class="main-content">
+        <div class="left-column">
+            <!-- Left column content -->
         </div>
-        <div class="product">
-            <h3>Leather Pouch with Runes</h3>
-            <p>A handcrafted leather pouch containing a set of runes for divination and self-reflection.</p>
+        <div class="center-column">
+            <div class="products-content">
+                <h2>Our Products</h2>
+                <div class="product">
+                    <div class="product-image">
+                        <img src="img/journal.jpg" alt="PEREGRINATE Journal"> <!-- Image for the journal -->
+                    </div>
+                    <div class="product-details">
+                        <h3>PEREGRINATE Journal</h3>
+                        <p>A beautifully designed journal that guides users through personal exploration and reflective growth.</p>
+                        <button class="buy-button">Buy Now</button> <!-- Buy button -->
+                    </div>
+                </div>
+                <div class="product">
+                    <div class="product-image">
+                        <img src="img/leather-pouch.jpg" alt="Leather Pouch with Runes"> <!-- Image for the leather pouch -->
+                    </div>
+                    <div class="product-details">
+                        <h3>Leather Pouch with Runes</h3>
+                        <p>A handcrafted leather pouch containing a set of runes for divination and self-reflection.</p>
+                        <button class="buy-button">Buy Now</button> <!-- Buy button -->
+                    </div>
+                </div>
+                <div class="product">
+                    <div class="product-image">
+                        <img src="img/mindfulness-cards.jpg" alt="Mindfulness Cards"> <!-- Image for the mindfulness cards -->
+                    </div>
+                    <div class="product-details">
+                        <h3>Mindfulness Cards</h3>
+                        <p>A deck of cards with daily mindfulness prompts and exercises.</p>
+                        <button class="buy-button">Buy Now</button> <!-- Buy button -->
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="product">
-            <h3>Mindfulness Cards</h3>
-            <p>A deck of cards with daily mindfulness prompts and exercises.</p>
+        <div class="right-column">
+            <!-- Right column content -->
         </div>
-    </section>
+    </main>
+    
+    <!-- Footer section -->
     <footer>
+        <hr> <!-- Horizontal line above the footer text -->
         <p>&copy; 2025 PEREGRINATE. All rights reserved.</p>
     </footer>
 </body>
