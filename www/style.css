@@ -11,10 +11,10 @@ body {
 .top-banner {
     height: 15vh; /* 15% of the viewport height */
     width: 100%; /* Full width */
-    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    background-color: #d9e3f0; /* Light blue-grey color from the sky */
+    border-bottom: 2px solid #8a9ba8; /* Darker grey-blue for contrast */
     display: flex;
     align-items: center;
-    justify-content: center;
 }
 
 /* Logo styling */
@@ -78,8 +78,9 @@ nav ul li a {
 /* Bottom banner styling */
 .bottom-banner {
     width: 100%; /* Full width */
-    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
-    text-align: center; /* Center text */
-    padding: 10px; /* Padding inside banner */
-    color: white; /* White text color */
+    background-color: #4a5b6c; /* Dark grey-blue color from shadows */
+    border-top: 2px solid #2e3b47; /* Even darker shade for contrast */
+    text-align: center;
+    padding: 10px;
+    color: white; /* White text color for readability */
 }
