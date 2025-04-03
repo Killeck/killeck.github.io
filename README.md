@@ -1,5 +1,5 @@
 # Path of the Unyielding
-[website](https://killeck.github.io/www/home.html)
+[website](https://killeck.github.io/www/index.html)
 
 
 [!Frontpage] subtitle: Claim your ground and Forge your Legacy
