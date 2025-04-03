@@ -3,8 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: url('background.jpg') no-repeat center center fixed; /* Background image */
-    background-size: cover; /* Cover the entire page */
+    background-color: #7A8B9C; /* Background color based on the center pixel of the image */
 }
 
 /* Top banner styling */
@@ -61,7 +60,7 @@ nav ul li a {
 /* Left column styling with background image */
 .left-column {
     width: 30%; /* 30% width */
-    background: url('img/Columns.jpg') no-repeat center center; /* Background image for left column */
+    background: url('your-image.jpg') no-repeat center center; /* Background image for left column */
     background-size: cover; /* Cover the entire column */
     background-position: left top; /* Position the left part of the image */
     padding: 20px; /* Padding inside column */
@@ -79,7 +78,7 @@ nav ul li a {
 /* Right column styling with background image */
 .right-column {
     width: 30%; /* 30% width */
-    background: url('img/Columns.jpg') no-repeat center center; /* Background image for right column */
+    background: url('your-image.jpg') no-repeat center center; /* Background image for right column */
     background-size: cover; /* Cover the entire column */
     background-position: right top; /* Position the right part of the image */
     padding: 20px; /* Padding inside column */
